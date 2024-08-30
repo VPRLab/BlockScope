@@ -1,5 +1,7 @@
 # BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects
 
+The vulnerability reports are available at https://github.com/VPRLab/BlkVulnReport.
+
 ## Overview
 
 `BlockScope` is the implementation of the paper titled *"BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects"* published in NDSS'23. `BlockScope` is a novel tool designed to automatically detect vulnerable code clones and pinpoint the cases already fixed and their patching process information.
